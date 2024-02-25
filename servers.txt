@@ -1,5 +1,4 @@
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.175:3306#🇺🇸 United States of America 8
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.175:8888#🇺🇸 United States of America 9
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@167.88.61.175:5003#🇺🇸 United States of America 10
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@167.88.61.175:8008#🇺🇸 United States of America 11
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.175:8090#🇺🇸 United States of America 12
